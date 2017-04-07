@@ -1,7 +1,0 @@
-C:\Users\Krzysztof\documents\visual studio 2012\Projects\CodeJam2014\Round1B\bin\Debug\Round1B.exe.config
-C:\Users\Krzysztof\documents\visual studio 2012\Projects\CodeJam2014\Round1B\bin\Debug\Round1B.exe
-C:\Users\Krzysztof\documents\visual studio 2012\Projects\CodeJam2014\Round1B\bin\Debug\Round1B.pdb
-C:\Users\Krzysztof\documents\visual studio 2012\Projects\CodeJam2014\Round1B\obj\Debug\Round1B.exe
-C:\Users\Krzysztof\documents\visual studio 2012\Projects\CodeJam2014\Round1B\obj\Debug\Round1B.pdb
-C:\Users\Krzysztof\documents\visual studio 2012\Projects\CodeJam2014\Round1B\bin\Debug\Sample.txt
-C:\Users\Krzysztof\documents\visual studio 2012\Projects\CodeJam2014\Round1B\obj\Debug\Round1B.csprojResolveAssemblyReference.cache
