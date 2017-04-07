@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StamdingOvation7pts", "StamdingOvation7pts\StamdingOvation7pts.csproj", "{697A1A14-91D8-4649-82FA-7CA3DA483435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pancakes", "Pancakes\Pancakes.csproj", "{DF26F755-B2DD-461F-894A-34E9BECCC08D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OminousOmino", "OminousOmino\OminousOmino.csproj", "{C9BF48EE-5FC8-4F73-ADA0-3DD47A0A1DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Round1B.CounterCulture", "Round1B\Round1B.CounterCulture.csproj", "{450A461F-E348-4AFC-A52E-B491D387D845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697A1A14-91D8-4649-82FA-7CA3DA483435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697A1A14-91D8-4649-82FA-7CA3DA483435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697A1A14-91D8-4649-82FA-7CA3DA483435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697A1A14-91D8-4649-82FA-7CA3DA483435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF26F755-B2DD-461F-894A-34E9BECCC08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF26F755-B2DD-461F-894A-34E9BECCC08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF26F755-B2DD-461F-894A-34E9BECCC08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF26F755-B2DD-461F-894A-34E9BECCC08D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BF48EE-5FC8-4F73-ADA0-3DD47A0A1DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BF48EE-5FC8-4F73-ADA0-3DD47A0A1DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BF48EE-5FC8-4F73-ADA0-3DD47A0A1DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BF48EE-5FC8-4F73-ADA0-3DD47A0A1DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450A461F-E348-4AFC-A52E-B491D387D845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450A461F-E348-4AFC-A52E-B491D387D845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450A461F-E348-4AFC-A52E-B491D387D845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450A461F-E348-4AFC-A52E-B491D387D845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
