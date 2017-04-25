@@ -3,7 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRound.Pancake", "QRound.Pancake\QRound.Pancake.csproj", "{370DC453-742A-45FD-8AFB-0DBA66DE663F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRound.TideNumbers", "QRound.TideNumbers\QRound.TideNumbers.csproj", "{671EE1EC-59D0-4CE2-AEFE-CB7AFD581DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRound.BathroomStalls", "QRound.BathroomStalls\QRound.BathroomStalls.csproj", "{9FC12120-7B2E-4E15-8C80-CE265B08813F}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{370DC453-742A-45FD-8AFB-0DBA66DE663F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370DC453-742A-45FD-8AFB-0DBA66DE663F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370DC453-742A-45FD-8AFB-0DBA66DE663F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370DC453-742A-45FD-8AFB-0DBA66DE663F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671EE1EC-59D0-4CE2-AEFE-CB7AFD581DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671EE1EC-59D0-4CE2-AEFE-CB7AFD581DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671EE1EC-59D0-4CE2-AEFE-CB7AFD581DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671EE1EC-59D0-4CE2-AEFE-CB7AFD581DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC12120-7B2E-4E15-8C80-CE265B08813F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC12120-7B2E-4E15-8C80-CE265B08813F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC12120-7B2E-4E15-8C80-CE265B08813F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC12120-7B2E-4E15-8C80-CE265B08813F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
